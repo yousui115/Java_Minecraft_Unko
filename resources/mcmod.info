@@ -1,0 +1,16 @@
+[
+{
+  "modid": "unko",
+  "name": "unko",
+  "description": "chaos unko death",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["yousui115"],
+  "credits": "too many unko.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
