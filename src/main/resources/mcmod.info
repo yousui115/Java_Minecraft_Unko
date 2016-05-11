@@ -1,14 +1,14 @@
 [
 {
   "modid": "unko",
-  "name": "unko",
-  "description": "chaos unko death",
-  "version": "1.0",
-  "mcversion": "1.8",
+  "name": "Unkoooooooooooooooo!!",
+  "description": "Chaos Unko.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["yousui115"],
-  "credits": "too many unko.",
+  "credits": ":-)",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
